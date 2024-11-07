@@ -24,5 +24,7 @@ namespace EJERCICIO_1_PRACTICA___SEMANA_13
             return Dias.Split(',');
 
         }
+
+        public string[] strings { get; set; }
     }
 }
